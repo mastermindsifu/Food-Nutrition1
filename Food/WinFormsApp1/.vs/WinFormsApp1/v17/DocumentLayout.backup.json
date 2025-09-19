@@ -1,0 +1,916 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\New folder\\Food\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\restaurantaccept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\restaurantaccept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\restaurantaccept.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\restaurantaccept.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\restaurantaccept.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\restaurantaccept.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\restaurantaccept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\restaurantaccept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\ownerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ownerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\restaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\restaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\restaurantinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\restaurantinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\restaurantinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\restaurantinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\ownerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ownerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\kingburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\kingburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\kingburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\kingburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\ownerform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ownerform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\ownerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ownerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\dietc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dietc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\deliveryman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\deliveryman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\dietc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dietc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\showrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\showrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\diet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\diet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\diet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\diet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\showrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\showrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\worker.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\worker.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\registerrowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\registerrowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\deliveryreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\deliveryreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\deliveryman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\deliveryman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\registerrowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\registerrowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\deliveryreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\deliveryreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\workerregcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\workerregcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\workerregcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\workerregcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\showdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\showdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\regularformlogcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\regularformlogcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\pizzaburg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\pizzaburg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\pizzaburg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\pizzaburg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\showdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\showdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\New folder\\Food\\WinFormsApp1\\winformsapp1\\dietcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dietcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\new folder\\food\\winformsapp1\\winformsapp1\\dietcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C920ED4-94D6-4182-929E-27DE1E0C28E8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dietcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantAccept.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantAccept.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RestaurantAccept.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantAccept.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\RestaurantAccept.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:32:13.505Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OwnerForm.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\OwnerForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\OwnerForm.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\OwnerForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\OwnerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:13:15.454Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantAccept.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantAccept.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RestaurantAccept.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantAccept.cs",
+              "RelativeToolTip": "WinFormsApp1\\RestaurantAccept.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:41:31.378Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestaurantAccept.resx",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantAccept.resx",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RestaurantAccept.resx",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantAccept.resx",
+              "RelativeToolTip": "WinFormsApp1\\RestaurantAccept.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-19T04:53:05.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantAccept.Designer.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantAccept.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RestaurantAccept.Designer.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantAccept.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\RestaurantAccept.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:42:29.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Restaurants.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Restaurants.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Restaurants.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Restaurants.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Restaurants.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T04:59:55.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Restaurant.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Restaurant.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Restaurant.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Restaurant.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Restaurant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:16:54.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RestaurantInfos.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantInfos.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RestaurantInfos.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantInfos.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\RestaurantInfos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:10:13.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestaurantInfos.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantInfos.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RestaurantInfos.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RestaurantInfos.cs",
+              "RelativeToolTip": "WinFormsApp1\\RestaurantInfos.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:11:58.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KingBurger.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\KingBurger.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\KingBurger.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\KingBurger.cs",
+              "RelativeToolTip": "WinFormsApp1\\KingBurger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T01:07:46.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KingBurger.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\KingBurger.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\KingBurger.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\KingBurger.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\KingBurger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:31:19.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OwnerForm.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\OwnerForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\OwnerForm.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\OwnerForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\OwnerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:13:58.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OwnerForm.resx",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\OwnerForm.resx",
+              "RelativeDocumentMoniker": "WinFormsApp1\\OwnerForm.resx",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\OwnerForm.resx",
+              "RelativeToolTip": "WinFormsApp1\\OwnerForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-19T04:09:18.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Delivery.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Delivery.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Delivery.cs",
+              "RelativeToolTip": "WinFormsApp1\\Delivery.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:37:48.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OwnerForm.Designer.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\OwnerForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\OwnerForm.Designer.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\OwnerForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\OwnerForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:09:17.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Login.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Login.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T23:37:29.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Login.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Login.cs",
+              "RelativeToolTip": "WinFormsApp1\\Login.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T01:24:02.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "diet.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\diet.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\diet.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\diet.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\diet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:02:16.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShowRest.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\ShowRest.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ShowRest.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\ShowRest.cs",
+              "RelativeToolTip": "WinFormsApp1\\ShowRest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:29:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShowRest.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\ShowRest.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ShowRest.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\ShowRest.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\ShowRest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:01:50.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DietC.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DietC.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DietC.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DietC.cs",
+              "RelativeToolTip": "WinFormsApp1\\DietC.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:51:33.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "diet.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\diet.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\diet.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\diet.cs",
+              "RelativeToolTip": "WinFormsApp1\\diet.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwHwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T23:00:41.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DietC.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DietC.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DietC.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DietC.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\DietC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:50:10.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Deliveryman.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Deliveryman.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Deliveryman.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Deliveryman.cs",
+              "RelativeToolTip": "WinFormsApp1\\Deliveryman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T04:48:34.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delivery.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Delivery.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Delivery.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Delivery.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Delivery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:35:36.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Admin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Admin.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Admin.cs",
+              "RelativeToolTip": "WinFormsApp1\\Admin.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvzkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:44:00.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Admin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Admin.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Admin.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:43:26.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Worker.resx",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Worker.resx",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Worker.resx",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Worker.resx",
+              "RelativeToolTip": "WinFormsApp1\\Worker.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-18T18:40:00.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Worker.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Worker.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Worker.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Worker.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Worker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:43:23.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterRowner.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RegisterRowner.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RegisterRowner.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RegisterRowner.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\RegisterRowner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T01:57:22.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:00:21.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:00:19.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DeliveryReg.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DeliveryReg.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DeliveryReg.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DeliveryReg.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\DeliveryReg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:09:01.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Deliveryman.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Deliveryman.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Deliveryman.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Deliveryman.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Deliveryman.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T04:47:51.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "About.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\About.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\About.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\About.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:25:31.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Customerinfo.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Customerinfo.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Customerinfo.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Customerinfo.cs",
+              "RelativeToolTip": "WinFormsApp1\\Customerinfo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:20:30.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Customerinfo.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Customerinfo.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Customerinfo.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Customerinfo.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Customerinfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:17:35.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterRowner.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RegisterRowner.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RegisterRowner.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RegisterRowner.cs",
+              "RelativeToolTip": "WinFormsApp1\\RegisterRowner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:02:25.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DeliveryReg.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DeliveryReg.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DeliveryReg.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DeliveryReg.cs",
+              "RelativeToolTip": "WinFormsApp1\\DeliveryReg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:09:56.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WorkerRegcs.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\WorkerRegcs.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WorkerRegcs.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\WorkerRegcs.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\WorkerRegcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:27:53.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WorkerRegcs.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\WorkerRegcs.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WorkerRegcs.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\WorkerRegcs.cs",
+              "RelativeToolTip": "WinFormsApp1\\WorkerRegcs.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:30:13.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:10:40.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Form2.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:34:33.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\SignUp.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SignUp.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\SignUp.cs",
+              "RelativeToolTip": "WinFormsApp1\\SignUp.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:05:15.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\SignUp.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SignUp.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\SignUp.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T01:05:54.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Worker.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Worker.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Worker.cs",
+              "RelativeToolTip": "WinFormsApp1\\Worker.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:49:19.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Showdetails.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Showdetails.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Showdetails.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Showdetails.cs",
+              "RelativeToolTip": "WinFormsApp1\\Showdetails.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T01:15:50.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Showdetails.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Showdetails.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Showdetails.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Showdetails.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Showdetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T01:15:21.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegularFormLogcs.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RegularFormLogcs.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RegularFormLogcs.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\RegularFormLogcs.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\RegularFormLogcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T01:05:50.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PizzaBurg.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\PizzaBurg.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\PizzaBurg.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\PizzaBurg.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\PizzaBurg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T01:13:43.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PizzaBurg.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\PizzaBurg.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\PizzaBurg.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\PizzaBurg.cs",
+              "RelativeToolTip": "WinFormsApp1\\PizzaBurg.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAIwG8BAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T01:21:32.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Restaurant.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Restaurant.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Restaurant.cs",
+              "RelativeToolTip": "WinFormsApp1\\Restaurant.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:17:35.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Check.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Check.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Check.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Check.cs",
+              "RelativeToolTip": "WinFormsApp1\\Check.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAtwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:20:07.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Check.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Check.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Check.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\Check.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Check.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:19:50.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DietCart.cs [Design]",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DietCart.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DietCart.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DietCart.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\DietCart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:50:57.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DietCart.cs",
+              "DocumentMoniker": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DietCart.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DietCart.cs",
+              "ToolTip": "C:\\New folder\\Food\\WinFormsApp1\\WinFormsApp1\\DietCart.cs",
+              "RelativeToolTip": "WinFormsApp1\\DietCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:52:11.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

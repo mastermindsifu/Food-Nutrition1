@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Beverage1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Burger1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Check.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Coffee1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Combo1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Combo2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customerinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Delivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Deliveryman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeliveryReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="diet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DietC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DietCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KingBurger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Moctail1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NextFormLogDiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OwnerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pizza1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pizza2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PizzaBurg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterRowner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegularFormLogcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Restaurant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RestaurantAccept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RestaurantInfos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Restaurants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Salad1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Sandwich1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Showdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowRest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Worker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WorkerRegcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

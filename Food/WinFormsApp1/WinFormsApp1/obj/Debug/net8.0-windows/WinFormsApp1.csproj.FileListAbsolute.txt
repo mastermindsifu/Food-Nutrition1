@@ -1,0 +1,264 @@
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.SignUp.resources
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.diet.resources
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Showdetails.resources
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.NextFormLogDiet.resources
+H:\C#\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.RegularFormLogcs.resources
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+H:\C#\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.diet.resources
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.NextFormLogDiet.resources
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.RegularFormLogcs.resources
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Showdetails.resources
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.SignUp.resources
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\New folder (5)\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.diet.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Login.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.NextFormLogDiet.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.RegularFormLogcs.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Showdetails.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.SignUp.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.DietC.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.DietCart.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.ShowRest.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Restaurant.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.KingBurger.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Check.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Burger1.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Beverage1.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Combo1.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Pizza1.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Salad1.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Sandwich1.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.PizzaBurg.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Pizza2.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Coffee1.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Combo2.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Moctail1.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.RegisterRowner.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.OwnerForm.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Delivery.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Worker.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.DeliveryReg.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.WorkerRegcs.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Admin.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Deliveryman.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Restaurants.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.RestaurantInfos.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Customerinfo.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.About.resources
+C:\New folder\Food\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.RestaurantAccept.resources
