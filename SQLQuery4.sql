@@ -1,0 +1,8 @@
+SELECT TOP (1000) [username]
+      ,[phone]
+      ,[email]
+      ,[resturantname]
+      ,[place]
+      ,[date]
+      ,[password]
+  FROM [Food].[dbo].[ResReg]
